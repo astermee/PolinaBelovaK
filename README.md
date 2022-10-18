@@ -12,6 +12,7 @@ Here are just a few projects from my study path:
 🔥<b>August</b>:
 
 - https://github.com/PolinaBelovaK/Minesweeper
+- https://github.com/PolinaBelovaK/CalculatorWithRomeNums
 
 🔥<b>September</b>:
 
