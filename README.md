@@ -15,4 +15,6 @@ Here are just a few projects from my study path:
 
 🔥<b>September</b>:
 
+- https://github.com/PolinaBelovaK/weatherApp
+
 🔥<b>October</b>:
