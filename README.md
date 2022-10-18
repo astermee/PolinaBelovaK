@@ -4,11 +4,15 @@
 - 📫 You can contact me at this email address - deykina.pauline@gmail.com
 
 Here are just a few projects from my study path:
- -2022-
-Start around the beginning of July:
+ 
+ ✨-2022-✨
 
+🔥Start around the beginning of <b>July</b>:
 
-August:
-https://github.com/PolinaBelovaK/Minesweeper
-September:
-October:
+🔥<b>August</b>:
+
+- https://github.com/PolinaBelovaK/Minesweeper
+
+🔥<b>September</b>:
+
+🔥<b>October</b>:
