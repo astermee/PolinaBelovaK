@@ -13,6 +13,7 @@ Here are just a few projects from my study path:
 
 - https://github.com/PolinaBelovaK/Minesweeper
 - https://github.com/PolinaBelovaK/CalculatorWithRomeNums
+- https://github.com/PolinaBelovaK/ToDoList
 
 🔥<b>September</b>:
 
