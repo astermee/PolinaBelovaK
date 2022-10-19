@@ -10,6 +10,7 @@ Here are just a few projects from my study path:
 🔥Start around the beginning of <b>July</b>:
 
 - https://github.com/PolinaBelovaK/Lists
+
 🔥<b>August</b>:
 
 - https://github.com/PolinaBelovaK/Minesweeper
