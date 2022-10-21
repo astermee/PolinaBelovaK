@@ -21,5 +21,6 @@ Here are just a few projects from my study path:
 🔥<b>September</b>:
 
 - https://github.com/PolinaBelovaK/weatherApp
+- https://github.com/PolinaBelovaK/SimpleFlashlight
 
 🔥<b>October</b>:
