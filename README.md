@@ -25,3 +25,5 @@ Here are just a few projects from my study path:
 - https://github.com/PolinaBelovaK/ClientServerSocket
 
 🔥<b>October</b>:
+
+- https://github.com/PolinaBelovaK/myNotes
