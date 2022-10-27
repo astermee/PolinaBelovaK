@@ -23,6 +23,7 @@ Here are just a few projects from my study path:
 - https://github.com/PolinaBelovaK/weatherApp
 - https://github.com/PolinaBelovaK/SimpleFlashlight
 - https://github.com/PolinaBelovaK/ClientServerSocket
+- https://github.com/PolinaBelovaK/Alarm
 
 🔥<b>October</b>:
 
