@@ -28,3 +28,4 @@ Here are just a few projects from my study path:
 🔥<b>October</b>:
 
 - https://github.com/PolinaBelovaK/myNotes
+- https://github.com/PolinaBelovaK/Pomodoro
