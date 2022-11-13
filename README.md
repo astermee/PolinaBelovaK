@@ -32,4 +32,4 @@ Here are just a few projects from my study path:
 
 🔥<b>November</b>:
 
-- 
+- https://github.com/PolinaBelovaK/PillsCalendar
