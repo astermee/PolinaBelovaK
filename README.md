@@ -29,3 +29,7 @@ Here are just a few projects from my study path:
 
 - https://github.com/PolinaBelovaK/myNotes
 - https://github.com/PolinaBelovaK/Pomodoro
+
+🔥<b>November</b>:
+
+- 
